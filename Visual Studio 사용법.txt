@@ -1,0 +1,17 @@
+Visual Studio 사용법
+1. 새파일 Ctrl+N
+2. 새창 Crtl+S
+3. 열기 Crtl+O
+4. 들여쓰기 Tab 
+5. 내여쓰기 Shift+Tab
+7. 주석 Ctrl+/
+8. 찾기 Ctrl+F
+9. 파일로 이동 Ctrl+P
+10. 전체찾기 Shift+Ctrl+F
+11. 설정 Ctrl+,
+12. 확대 Ctrl++
+13. 축소 Ctrl+-
+14. 사이드바 Crtl+B
+15. 명령어 팔레트 Crtl+Shift+P
+16. 실행 F5 (실행 및 디버그)
+17. 줄바꿈 Alt+Z
